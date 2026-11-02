@@ -1,0 +1,19 @@
+{
+  "overview": "Un jeton TTTI-T avec portefeuille intégré, mint, échange et pools de liquidité, dont le prix est tiré d'ICPSwap et dont les échanges des pools s'ouvrent à 10 USD de profondeur.",
+  "features": [
+    "Prix du TTTI-T tiré d'ICPSwap, relu au moins une fois par jour à la consultation du portefeuille et à chaque rafraîchissement",
+    "Prix relu en temps réel au moment d'un échange",
+    "Échanges d'un pool ouverts dès 10 USD de profondeur",
+    "Dépôts, liquidité et mint jamais bloqués par ce seuil",
+    "Minimum du mint à 1 USD"
+  ],
+  "category": "crypto-wallet-and-token-exchange",
+  "tags": [
+    "token",
+    "wallet",
+    "liquidity-pools",
+    "icpswap",
+    "mint"
+  ],
+  "last_updated": "2026-11-02T04:25:32.972Z"
+}
